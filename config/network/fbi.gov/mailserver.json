@@ -3,6 +3,6 @@
         "from": "admin",
         "to": ["8A73B5", "user"],
         "title": "Maintenance in all servers",
-        "body": "This message is for all ground teams of Delta Green.  Starting today, and for no less than seven days, the servers may suffer instability due to the latest maintenance measures.    admin"
+        "body": "<p class='shimmer'>This message is for all ground teams of Delta Green.  Starting today, and for no less than seven days, the servers may suffer instability due to the latest maintenance measures.    admin</p>"
     }
 ]

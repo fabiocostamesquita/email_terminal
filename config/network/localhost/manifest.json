@@ -1,8 +1,9 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "year": 1976
+    "serverAddress": "deltagreenGAUSA12",
+    "serverName": "Delta Green - Node 12(GA) Intranet",
+    "iconName": "MDelta Green Logo.png",
+    "terminalID": "GAUSA12",
     "defaultUser": {
         "userId": "user",
         "password": "",
@@ -14,7 +15,7 @@
             "login admin@admin"
         ],
         "admin": [
-            "ping fbi.gov"
+            "ping deltagreen.gov"
         ]
     }
 }

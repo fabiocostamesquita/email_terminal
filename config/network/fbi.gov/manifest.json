@@ -1,12 +1,13 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "year": 1977,
+    "serverAddress": "deltagreen.gov",
+    "serverName": "Delta Green Read Only Terminal GUSA-12",
+    "iconName": "delta green logo.png",
+    "terminalID": "deltagreen",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true
+    "randomSeed": false
 }
